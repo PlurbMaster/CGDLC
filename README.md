@@ -13,26 +13,3 @@ _there are not any libraries added to the project at the moment, but there will 
 
 Current specification:
 
-Graphics:
-	- Raylib
-	- Glad for OGL version 33 core
-	- Glad for OGLES3
-Window:
-	- glfw
-	- Raylib
-
-Physics:
-	- Box2D
-	- Bullet physics
-
-ECS:
-	- EnTT
-
-Audio:
-	- OpenAL
-	- Raudio
-	- miniaudio
-
-Math:
-	- Raymath
-	- glm
