@@ -11,5 +11,4 @@ The CGDLC is meant to be like the LWJGL. A collection of libraries, rather than 
 
 _there are not any libraries added to the project at the moment, but there will be in the near future._
 
-Current specification:
 
