@@ -17,7 +17,6 @@ Graphics:
 	- Raylib
 	- Glad for OGL version 33 core
 	- Glad for OGLES3
-
 Window:
 	- glfw
 	- Raylib
